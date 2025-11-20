@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Erik Johnson Oceanography</title>
+    <link>https://ErikJohnsonOceanography.github.io/</link>
+    <description>Recent content on Erik Johnson Oceanography</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ErikJohnsonOceanography.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>56th International Liège Colloquium</title>
+      <link>https://ErikJohnsonOceanography.github.io/posts/blogposts/liege_post/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ErikJohnsonOceanography.github.io/posts/blogposts/liege_post/</guid>
+      <description>&lt;p&gt;Recently I was able to attend the 56th annual Liège Colloquium on ocean dynamics in Liège, Beglium. I presented a poster summarizing recent work I&amp;rsquo;ve done on realistic regional modelling in &lt;a href=&#34;https://clima.github.io/OceananigansDocumentation/stable/&#34;&gt;Oceananigans&lt;/a&gt;, a Julia-based ocean modelling software with GPU support.&lt;/p&gt;
+&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://ErikJohnsonOceanography.github.io/images/MCDRposter_maxres.png#center&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Liège Poster&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The modelling work has been progressing quickly, keep an eye out for future updates here!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Drivers of neritic water intrusions at the subtropical front along a narrow shelf</title>
+      <link>https://ErikJohnsonOceanography.github.io/posts/publications/neritic_intrusions_2024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ErikJohnsonOceanography.github.io/posts/publications/neritic_intrusions_2024/</guid>
+      <description>A numerical model of Aotearoa’s southeast continental shelf forced with realistic discharge from the Clutha River is used to assess the drivers of river plume variability and identify conditions associated with the transport of neritic water beyond the shelf break.</description>
+    </item>
+    <item>
+      <title>Doctoral Thesis: Impact of subseasonal processes on Aotearoa&#39;s southeast shelf break front</title>
+      <link>https://ErikJohnsonOceanography.github.io/posts/publications/thesis_2023/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://ErikJohnsonOceanography.github.io/posts/publications/thesis_2023/</guid>
+      <description>Using a synthesis of remotely-sensed, in situ, and modelled data, this work investigates subseasonal (&amp;lt; 60 day) biophysical variability (eg. chlorophyll-a, stratification, freshwater influence) along a shelf break front situated in southeast Aotearoa/New Zealand.</description>
+    </item>
+    <item>
+      <title>Episodic Summer Chlorophyll-a Blooms Driven by Along-Front Winds at Aotearoa&#39;s Southeast Shelf Break Front</title>
+      <link>https://ErikJohnsonOceanography.github.io/posts/publications/episodic_blooms_2023/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://ErikJohnsonOceanography.github.io/posts/publications/episodic_blooms_2023/</guid>
+      <description>This study investigates the influence of along-front wind forcing on chlorophyll-a (Chl-a) at the Otago Shelf Break (OSB) in southeast Aotearoa/New Zealand using remotely-sensed and in situ data.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://ErikJohnsonOceanography.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ErikJohnsonOceanography.github.io/about/</guid>
+      <description>&lt;p&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://ErikJohnsonOceanography.github.io/images/headshot.png&#34; width=&#34;128px&#34;/&gt; 
+&lt;/figure&gt;
+
+I&amp;rsquo;m Erik, a physical oceanographer. My main passions are in field observations, but I&amp;rsquo;ve worn many hats and am currently working on regional ocean modelling in Oceanigans. This postdoc is focused on using high-speed GPU-based ocean models (built on Oceananigans in the Julia programming language) to assess sources of model uncertainty in marine carbon dioxide removal estimates. I&amp;rsquo;m working with Ruth Musgrave at Dalhousie University, as well as Raphael Ouillon, the CTO of atdepth. Prior to this, my PhD Thesis and associated papers were centered around shelf break dynamics in Southeast Aotearoa New Zealand, where I did my degree under the supervision of Rob Smith, Ata Suanda, and Steve Wing at the University of Otago.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

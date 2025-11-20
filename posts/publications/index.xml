@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Publications on Erik Johnson Oceanography</title>
+    <link>https://ErikJohnsonOceanography.github.io/posts/publications/</link>
+    <description>Recent content in Publications on Erik Johnson Oceanography</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ErikJohnsonOceanography.github.io/posts/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drivers of neritic water intrusions at the subtropical front along a narrow shelf</title>
+      <link>https://ErikJohnsonOceanography.github.io/posts/publications/neritic_intrusions_2024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ErikJohnsonOceanography.github.io/posts/publications/neritic_intrusions_2024/</guid>
+      <description>A numerical model of Aotearoa’s southeast continental shelf forced with realistic discharge from the Clutha River is used to assess the drivers of river plume variability and identify conditions associated with the transport of neritic water beyond the shelf break.</description>
+    </item>
+    <item>
+      <title>Doctoral Thesis: Impact of subseasonal processes on Aotearoa&#39;s southeast shelf break front</title>
+      <link>https://ErikJohnsonOceanography.github.io/posts/publications/thesis_2023/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://ErikJohnsonOceanography.github.io/posts/publications/thesis_2023/</guid>
+      <description>Using a synthesis of remotely-sensed, in situ, and modelled data, this work investigates subseasonal (&amp;lt; 60 day) biophysical variability (eg. chlorophyll-a, stratification, freshwater influence) along a shelf break front situated in southeast Aotearoa/New Zealand.</description>
+    </item>
+    <item>
+      <title>Episodic Summer Chlorophyll-a Blooms Driven by Along-Front Winds at Aotearoa&#39;s Southeast Shelf Break Front</title>
+      <link>https://ErikJohnsonOceanography.github.io/posts/publications/episodic_blooms_2023/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://ErikJohnsonOceanography.github.io/posts/publications/episodic_blooms_2023/</guid>
+      <description>This study investigates the influence of along-front wind forcing on chlorophyll-a (Chl-a) at the Otago Shelf Break (OSB) in southeast Aotearoa/New Zealand using remotely-sensed and in situ data.</description>
+    </item>
+  </channel>
+</rss>
