@@ -6,8 +6,22 @@
     <description>Recent content on Erik Johnson Oceanography</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ErikJohnsonOceanography.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ocean Sciences Meeting Glasgow</title>
+      <link>https://ErikJohnsonOceanography.github.io/posts/blogposts/osm2026_post/</link>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ErikJohnsonOceanography.github.io/posts/blogposts/osm2026_post/</guid>
+      <description>&lt;p&gt;At Ocean Sciences Meeting in Glasgow, Scotland, I had the opportunity to present preliminary results from my postdoc work. This presentation summarized a handful of 16 different regional model runs (using Oceananigans) to investigate MCDR uncertainty. In these different runs, various model parameters were modified (eg. wind speed, initial DIC/Alk, heat flux, etc.) and the CO2 additionality after 6 months was evaluated.&lt;/p&gt;
+&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://ErikJohnsonOceanography.github.io/images/standardAnimation_small_v2.gif#center&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Standard Model Run&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The entire MCDR modelling session was fascinating, and it was great to chat with others tackling similar problems! We&amp;rsquo;re hoping to improve the regional model set up, and run a set of simulations building upon the work presented here. Stay tuned for the paper in prep!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>56th International Liège Colloquium</title>
       <link>https://ErikJohnsonOceanography.github.io/posts/blogposts/liege_post/</link>
